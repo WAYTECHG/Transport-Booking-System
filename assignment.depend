@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1748967618 source:c:\users\cindy\documents\assignment\main.cpp
+	"TransportFactory.h"
+	"Client.h"
+	"Account.h"
+	"AdminAccount.h"
+	"ClientAccount.h"
+	<string>
+	<fstream>
+	<sstream>
+
+1747509683 c:\users\cindy\documents\assignment\system.h
+	"vehicle.h"
+	"client.h"
+	<vector>
+	<memory>
+
+1747509661 c:\users\cindy\documents\assignment\vehicle.h
+	<iostream>
+	<string>
+
+1748973221 c:\users\cindy\documents\assignment\client.h
+	<random>
+	"Transport.h"
+	<iostream>
+	<string>
+	<vector>
+
+1748967310 c:\users\cindy\documents\assignment\transportfactory.h
+	"transport.h"
+	<limits>
+
+1748978417 c:\users\cindy\documents\assignment\transport.h
+	<iostream>
+	<string>
+	<vector>
+
+1748973466 source:c:\users\cindy\documents\assignment\transportfactory.cpp
+	"Transport.h"
+	"TransportFactory.h"
+	<fstream>
+	<sstream>
+
+1748880930 source:c:\users\cindy\documents\assignment\account.cpp
+
+1748880787 c:\users\cindy\documents\assignment\account.h
+	"Transport.h"
+	<string>
+
+1748973221 c:\users\cindy\documents\assignment\clientaccount.h
+	"Account.h"
+	"Client.h"
+	"Transport.h"
+	<fstream>
+	<sstream>
+
+1748884061 c:\users\cindy\documents\assignment\adminaccount.h
+	"Account.h"
+	"Transport.h"
+	"TransportFactory.h"
+	<fstream>
+
+1749152803 source:c:\users\cindy\documents\assignment - 副本\main.cpp
+	"Account.h"
+	"AdminAccount.h"
+	"Client.h"
+	"ClientAccount.h"
+	"TransportFactory.h"
+	<fstream>
+	<sstream>
+	<string>
+
+1749147640 c:\users\cindy\documents\assignment - 副本\account.h
+	"Transport.h"
+	<string>
+
+1749149018 c:\users\cindy\documents\assignment - 副本\transport.h
+	<iostream>
+	<string>
+	<vector>
+
+1749152491 c:\users\cindy\documents\assignment - 副本\adminaccount.h
+	"Account.h"
+	"Transport.h"
+	"TransportFactory.h"
+	<fstream>
+
+1749152491 c:\users\cindy\documents\assignment - 副本\transportfactory.h
+	"transport.h"
+	<limits>
+
+1749151090 c:\users\cindy\documents\assignment - 副本\client.h
+	"Transport.h"
+	<iostream>
+	<random>
+	<string>
+	<vector>
+
+1749150647 c:\users\cindy\documents\assignment - 副本\clientaccount.h
+	"Account.h"
+	"Client.h"
+	"Transport.h"
+	<fstream>
+	<sstream>
+
+1749152985 source:c:\users\cindy\documents\assignment - 副本\transportfactory.cpp
+	"Transport.h"
+	"TransportFactory.h"
+	<fstream>
+	<sstream>
+
+1749152802 source:c:\users\cindy\documents\cpp final assignment1\cpp final assignment\main.cpp
+	"Account.h"
+	"AdminAccount.h"
+	"Client.h"
+	"ClientAccount.h"
+	"TransportFactory.h"
+	<fstream>
+	<sstream>
+	<string>
+
+1749147640 c:\users\cindy\documents\cpp final assignment1\cpp final assignment\account.h
+	"Transport.h"
+	<string>
+
+1749149018 c:\users\cindy\documents\cpp final assignment1\cpp final assignment\transport.h
+	<iostream>
+	<string>
+	<vector>
+
+1749152490 c:\users\cindy\documents\cpp final assignment1\cpp final assignment\adminaccount.h
+	"Account.h"
+	"Transport.h"
+	"TransportFactory.h"
+	<fstream>
+
+1749152490 c:\users\cindy\documents\cpp final assignment1\cpp final assignment\transportfactory.h
+	"transport.h"
+	<limits>
+
+1749151090 c:\users\cindy\documents\cpp final assignment1\cpp final assignment\client.h
+	"Transport.h"
+	<iostream>
+	<random>
+	<string>
+	<vector>
+
+1749150646 c:\users\cindy\documents\cpp final assignment1\cpp final assignment\clientaccount.h
+	"Account.h"
+	"Client.h"
+	"Transport.h"
+	<fstream>
+	<sstream>
+
+1749152984 source:c:\users\cindy\documents\cpp final assignment1\cpp final assignment\transportfactory.cpp
+	"Transport.h"
+	"TransportFactory.h"
+	<fstream>
+	<sstream>
+
+1749152802 source:c:\users\cindy\desktop\cpp final assignment\main.cpp
+	"Account.h"
+	"AdminAccount.h"
+	"Client.h"
+	"ClientAccount.h"
+	"TransportFactory.h"
+	<fstream>
+	<sstream>
+	<string>
+
+1749147640 c:\users\cindy\desktop\cpp final assignment\account.h
+	"Transport.h"
+	<string>
+
+1749149018 c:\users\cindy\desktop\cpp final assignment\transport.h
+	<iostream>
+	<string>
+	<vector>
+
+1749152490 c:\users\cindy\desktop\cpp final assignment\adminaccount.h
+	"Account.h"
+	"Transport.h"
+	"TransportFactory.h"
+	<fstream>
+
+1749152490 c:\users\cindy\desktop\cpp final assignment\transportfactory.h
+	"transport.h"
+	<limits>
+
+1749151090 c:\users\cindy\desktop\cpp final assignment\client.h
+	"Transport.h"
+	<iostream>
+	<random>
+	<string>
+	<vector>
+
+1749361780 c:\users\cindy\desktop\cpp final assignment\clientaccount.h
+	"Account.h"
+	"Client.h"
+	"Transport.h"
+	<fstream>
+	<sstream>
+
+1749197680 source:c:\users\cindy\desktop\cpp final assignment\transportfactory.cpp
+	"Transport.h"
+	<fstream>
+	<sstream>
+
+1749152802 source:c:\users\cindy\desktop\cpp group assignment\cpp group assignment source code\main.cpp
+	"Account.h"
+	"AdminAccount.h"
+	"Client.h"
+	"ClientAccount.h"
+	"TransportFactory.h"
+	<fstream>
+	<sstream>
+	<string>
+
+1749147640 c:\users\cindy\desktop\cpp group assignment\cpp group assignment source code\account.h
+	"Transport.h"
+	<string>
+
+1749149018 c:\users\cindy\desktop\cpp group assignment\cpp group assignment source code\transport.h
+	<iostream>
+	<string>
+	<vector>
+
+1749152490 c:\users\cindy\desktop\cpp group assignment\cpp group assignment source code\adminaccount.h
+	"Account.h"
+	"Transport.h"
+	"TransportFactory.h"
+	<fstream>
+
+1749152490 c:\users\cindy\desktop\cpp group assignment\cpp group assignment source code\transportfactory.h
+	"transport.h"
+	<limits>
+
+1749151090 c:\users\cindy\desktop\cpp group assignment\cpp group assignment source code\client.h
+	"Transport.h"
+	<iostream>
+	<random>
+	<string>
+	<vector>
+
+1749361780 c:\users\cindy\desktop\cpp group assignment\cpp group assignment source code\clientaccount.h
+	"Account.h"
+	"Client.h"
+	"Transport.h"
+	<fstream>
+	<sstream>
+
+1749197680 source:c:\users\cindy\desktop\cpp group assignment\cpp group assignment source code\transportfactory.cpp
+	"Transport.h"
+	<fstream>
+	<sstream>
+

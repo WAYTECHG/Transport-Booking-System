@@ -1,0 +1,5 @@
+admin1,adminpass,admin
+clientA,pass123,client,012-9999999,2
+clientB,pass456,client,016-5888888,1
+jason,123,client,123,3
+zyz,345,client,123,2
