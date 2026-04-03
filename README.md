@@ -98,5 +98,3 @@ This project simulates a real-world transport service system where:
 *CST209 – Project: Object-Oriented Programming (C++)*
 
 **Universal Transports Management System**
-
----
