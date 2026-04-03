@@ -100,11 +100,3 @@ This project simulates a real-world transport service system where:
 **Universal Transports Management System**
 
 ---
-
-## 📜 License
-
-This project is developed for **educational purposes only** under the  **Open Source Academic License** .
-
-Feel free to fork, modify, and improve for learning or research use.
-
----
